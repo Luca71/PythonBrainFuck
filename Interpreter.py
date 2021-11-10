@@ -24,7 +24,6 @@ def PrintFooter():
         print("*", end = "")
         i += 1
     
-
 def txtFileIndexIncrement():
     global inputIndex
     inputIndex += 1
